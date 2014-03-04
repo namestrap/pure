@@ -168,3 +168,7 @@ See the [LICENSE file][] for license text and copyright information.
 
 
 [LICENSE file]: https://github.com/yui/pure/blob/master/LICENSE.md
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/namestrap/pure/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
